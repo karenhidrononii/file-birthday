@@ -16,7 +16,7 @@ body {
     transition: 1s;
   }
   .cardFront {
-    position: relative;
+    position: center;
     background-color: #fff;
     width: 250px;
     height:350px;
