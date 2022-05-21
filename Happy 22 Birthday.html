@@ -20,7 +20,7 @@
   
   <div class="cardInside">
     <h3 class="back">HAPPY BIRTHDAY!</h3>
-    <p class="dear">Dear the one most wonderful person who i know</p>
+    <p class="dear">Dear the amazing one person i know</p>
     <p class="Ucapan">Halo!! Selamat yaa, hari ini sudah genap berusia 22 tahun. Semoga semua doa baik dan tulus yang terucap untukmu bisa selalu menjadi pengiring langkahmu. Bahagia selalu, sehat selalu, all the best wishes for you and may all of your wishes come true!</p>
     <p class="barakallah">Barakallah fii umrik..</p>
     <p class="name">^_^</p>
